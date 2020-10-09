@@ -5,7 +5,7 @@
   "description": "Learn Storybook design system",
   "main": "dist/index.js",
   "repository": "https://github.com/chromaui/learnstorybook-design-system.git",
-  "author": "Tom Coleman <tom@thesnail.org>",
+  "author": "Adan Palacios",
   "license": "MIT",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
