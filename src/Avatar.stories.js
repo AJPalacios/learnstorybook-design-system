@@ -12,3 +12,11 @@ Controls.args = {
     username: 'Dominic Nguyen',
     src: 'https://avatars2.githubusercontent.com/u/263385',
 }
+
+export default {
+    title: 'Design System/Avatar',
+    component: Avatar,
+    parameters: {
+      componentSubtitle: 'Displays an image that represents a user or organization',
+    },
+  };
