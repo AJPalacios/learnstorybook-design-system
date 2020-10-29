@@ -1,3 +1,15 @@
+# v1.0.4 (Thu Oct 29 2020)
+
+#### 🐛 Bug Fix
+
+- add npm ignore [#7](https://github.com/AJPalacios/learnstorybook-design-system/pull/7) ([@AJPalacios](https://github.com/AJPalacios))
+
+#### Authors: 1
+
+- Adan Palacios  ([@AJPalacios](https://github.com/AJPalacios))
+
+---
+
 # v1.0.2 (Thu Oct 29 2020)
 
 #### 🐛 Bug Fix
