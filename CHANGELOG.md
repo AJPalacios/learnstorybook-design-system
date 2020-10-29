@@ -1,3 +1,17 @@
+# v1.0.2 (Thu Oct 29 2020)
+
+#### 🐛 Bug Fix
+
+- Test release [#6](https://github.com/AJPalacios/learnstorybook-design-system/pull/6) ([@AJPalacios](https://github.com/AJPalacios))
+- Test release [#5](https://github.com/AJPalacios/learnstorybook-design-system/pull/5) ([@AJPalacios](https://github.com/AJPalacios))
+- add change [#4](https://github.com/AJPalacios/learnstorybook-design-system/pull/4) ([@AJPalacios](https://github.com/AJPalacios))
+
+#### Authors: 1
+
+- Adan Palacios  ([@AJPalacios](https://github.com/AJPalacios))
+
+---
+
 # v1.0.1 (Fri Oct 09 2020)
 
 #### 🐛 Bug Fix
