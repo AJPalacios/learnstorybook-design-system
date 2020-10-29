@@ -1,3 +1,17 @@
+# v1.0.5 (Thu Oct 29 2020)
+
+#### 🐛 Bug Fix
+
+- fix lock [#10](https://github.com/AJPalacios/learnstorybook-design-system/pull/10) ([@AJPalacios](https://github.com/AJPalacios))
+- remove package lock [#9](https://github.com/AJPalacios/learnstorybook-design-system/pull/9) ([@AJPalacios](https://github.com/AJPalacios))
+- testing transpile [#8](https://github.com/AJPalacios/learnstorybook-design-system/pull/8) ([@AJPalacios](https://github.com/AJPalacios))
+
+#### Authors: 1
+
+- Adan Palacios  ([@AJPalacios](https://github.com/AJPalacios))
+
+---
+
 # v1.0.4 (Thu Oct 29 2020)
 
 #### 🐛 Bug Fix
