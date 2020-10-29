@@ -118,7 +118,7 @@ export function Avatar({ loading, username, src, size, ...props }) {
 
 Avatar.propTypes = {
   /**
-   Use the loading state to indicate that the data Avatar needs is still loading. 
+    Use the loading state to indicate that the data Avatar needs is still loading. 
   */
   loading: PropTypes.bool,
   /**

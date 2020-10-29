@@ -3,7 +3,7 @@ import PropTypes from 'prop-types';
 import styled, { css } from 'styled-components';
 import { background, color, typography } from './shared/styles';
 
-const BadgeWrapper = styled.div`
+const BadgeWrapper = styled.div` 
   display: inline-block;
   vertical-align: top;
   font-size: 11px;
