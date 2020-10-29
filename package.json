@@ -1,6 +1,6 @@
 {
   "name": "learnstorybook-design-system-demo",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "private": false,
   "description": "Learn Storybook design system",
   "main": "lib/index.js",
